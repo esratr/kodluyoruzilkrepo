@@ -19,7 +19,6 @@ Linux için
 
 ## License
 
-[MIT]
+MIT
 
-[resim](C:\Users\ESRA TIRPANCI\Desktop\javakampresim\kodluyoruzilkrepo)
 
