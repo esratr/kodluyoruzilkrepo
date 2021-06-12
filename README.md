@@ -7,6 +7,7 @@ git clone https://github.com/esratr/kodluyoruzilkrepo.git
 
 ## Usage
 Projeyi kodladıktan sonra projeyi Visual Studio Code programında açınız.
+
 Linux için 
 ```
  cd kodluyoruzilkrepo
